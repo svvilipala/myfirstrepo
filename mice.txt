@@ -1,5 +1,5 @@
 m mammal
-o outside
-u USB
+o optical
+u unique
 s small
 e eager
